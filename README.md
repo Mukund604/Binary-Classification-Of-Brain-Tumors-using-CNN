@@ -36,7 +36,7 @@
 <h2>Installation</h2>
 <ol>
   <li>Clone the repository:</li>
-  <pre><code>git clone https://github.com/Mukund604/brain-tumor-classification</code></pre>
+  <pre><code>git clone https://github.com/Mukund604/Binary-Classification-Of-Brain-Tumors-using-CNN</code></pre>
   <li>Navigate to the project directory:</li>
   <pre><code>cd brain-tumor-classification</code></pre>
   <li>Install the required dependencies:</li>
